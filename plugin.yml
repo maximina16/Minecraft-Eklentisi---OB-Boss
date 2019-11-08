@@ -1,0 +1,8 @@
+name: OB-Boss
+author: OyuncuBilgisi(YSO)
+main: speedyg.boss.Main
+version: 1.7.1
+commands:
+  boss:
+    description: Boss eklentisinin genel komutudur. Yetkiliyseniz duzenleme, degilseniz goruntuleme menusu acilir.
+    aliases: [obboss, oboss, patron, komutan]

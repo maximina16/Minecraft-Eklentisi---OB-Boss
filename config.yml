@@ -1,0 +1,25 @@
+Boss-Dogma-Duyurusu: true
+Yaninda-Mesaj-Gonderme-Random: 5
+Bosslar:
+  TheKing:
+    Boss-Durum: false
+    Gosterim-Adi: '&cKral'
+    Can-Gosterim-Tarzi: <bossadi> &8| &bCan; &d<can>
+    Canliyken-Yok-Olup-Yeni-Boss-Dogsun-Mu: true
+    Mob-Tipi: ZOMBIE
+    Rastgele-Dogma-Uzaklik-Birim: 10
+    Can: 2048
+    Pot-Suresi: 200
+    Duyuru: true
+    Rastgele-Dogma: false
+    Guc: 3
+    Sure: 10
+    Odul-Verim-Sekli: Envanter
+    Ozel-Vurus-Efekt-Kullanma-Sansi: 45
+    Komutlar: []
+    Vurus-Efektleri: {}
+    Pot-Efektleri: {}
+    Kutlama: true
+    Set: {}
+    Oduller: {}
+    Drop-Sans: {}
