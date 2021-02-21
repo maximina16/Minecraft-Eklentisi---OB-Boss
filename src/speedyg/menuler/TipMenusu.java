@@ -24,8 +24,7 @@ public class TipMenusu implements Listener {
 		main = plugin;
 	}
 
-//	private static String[] moblar = { "SKELETON", "ZOMBIE", "SPIDER", "CAVE_SPIDER", "BLAZE", "BAT", "PIG_ZOMBIE",
-	// "WITCH", "VILLAGER", "WOLF", "SLIME", "MAGMA_CUBE", "IRON_GOLEM", "GIANT" };
+	private static String[] moblar = { "SKELETON", "ZOMBIE", "SPIDER", "CAVE_SPIDER", "BLAZE", "BAT", "PIG_ZOMBIE", "WITCH", "VILLAGER", "WOLF", "SLIME", "MAGMA_CUBE", "IRON_GOLEM", "GIANT" };
 	public static HashMap<String, Inventory> tipmenusu = new HashMap<String, Inventory>();
 
 	public static void oyuncuyaTipMenusuAc(Player p, String mobadi) {
